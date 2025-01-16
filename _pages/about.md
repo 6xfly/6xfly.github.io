@@ -21,8 +21,7 @@ Welcome to my website!
 
 Now i am seeking a Ph.D. position in Condensed Matter Physics, with a focus on theoretical and computational studies of low-dimensional correlated electron systems, quantum many-body systems, and quantum optics.
 
-My research interest includes Condensed Matter Physics and Quantum Optics. My Google Scholar homepage <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'> </span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research interest includes Condensed Matter Physics and Quantum Optics. My Google Scholar homepage <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'> </span></strong></a> (google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
