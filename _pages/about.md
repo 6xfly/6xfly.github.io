@@ -24,8 +24,17 @@ Now i am seeking a Ph.D. position in Condensed Matter Physics, with a focus on t
 My research interest includes Condensed Matter Physics and Quantum Optics. My Google Scholar homepage <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'> </span></strong></a> (google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 # 📝 Publications 
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**Xiang Liu**, Zheng Tao, Wenchen Luo, and Tapash Chakraborty  
+- *Interlayer excitons in double-layer transition metal dichalcogenides quantum dots*  
+[arXiv:2408.07308](https://arxiv.org/abs/2408.07308)  
+
+Wenchen Luo, Muaath Abdulwahab, **Xiang Liu**, and Hao Wang  
+- *$\frac{5}{2}$ fractional quantum Hall state in GaAs with Landau level mixing*  
+[Phys. Rev. B 110, 085428](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.085428)
+
+Wenna Zhang, Yutao Hu, Hongyi Zhang, **Xiang Liu**, Georgios Veronis, Yuecheng Shen, Yin Huang, and Wenchen Luo  
+- *Skin effect in Non-Hermitian systems with spin*  
+[arXiv:2408.07406](https://doi.org/10.48550/arXiv.2408.07406)  
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
