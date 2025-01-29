@@ -38,13 +38,12 @@ Wenna Zhang, Yutao Hu, Hongyi Zhang, **Xiang Liu**, Georgios Veronis, Yuecheng S
 [arXiv:2408.07406](https://doi.org/10.48550/arXiv.2408.07406)  
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.12* First Prize, The 12th Chinese Mathematics Competitions (Non-Mathematical Category, Shaanxi Division). 
+- *2015.05* Triple-A Student (Moral, Academic, and Physical Excellence) of Ganzhou City. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Educations                                                                                                                                            
+- *2022.09 - 2025.06 (now)*, M. S. in Theoretical Physics, School of Physics, Central South University, Changsha, China. 
+- *2018.09 - 2022.06*, B. Sc in Applied Physics, Department of Science, Xi'an Polytechnic University, Xi'an, China.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.07*, Interlayer excitons in double-layer transition metal dichalcogenides quantum dots, Hunan Province Symposium on the frontiers of Physics. 
