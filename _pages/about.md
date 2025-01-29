@@ -39,9 +39,9 @@ Wenna Zhang, Yutao Hu, Hongyi Zhang, **Xiang Liu**, Georgios Veronis, Yuecheng S
 
 # 🎖 Honors and Awards
 - *2020.12* First Prize, The 12th Chinese Mathematics Competitions (Non-Mathematical Category, Shaanxi Division). 
-- *2015.05* Triple-A Student (Moral, Academic, and Physical Excellence) of Ganzhou City. 
-
-# 🏫 Educations                                                                                                                                                     
+- *2015.05* Triple-A Student (Moral, Academic, and Physical Excellence) of Ganzhou City.
+- 
+# 🏫 Educations                                                                                                                                    
 - *2022.09 - 2025.06 (now)*, M. S. in Theoretical Physics, School of Physics, Central South University, Changsha, China. 
 - *2018.09 - 2022.06*, B. Sc in Applied Physics, Department of Science, Xi'an Polytechnic University, Xi'an, China.
 
