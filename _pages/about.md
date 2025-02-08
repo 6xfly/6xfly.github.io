@@ -27,7 +27,7 @@ My research interest includes Condensed Matter Physics and Quantum Optics. My Go
 
 **Xiang Liu**, Zheng Tao, Wenchen Luo, and Tapash Chakraborty  
 - *Interlayer excitons in double-layer transition metal dichalcogenides quantum dots*  
-[arXiv:2408.07308](https://arxiv.org/abs/2408.07308)  
+[arXiv:2408.07308](https://arxiv.org/abs/2408.07308) Phys. Rev. B, Accepted. 
 
 Wenchen Luo, Muaath Abdulwahab, **Xiang Liu**, and Hao Wang  
 - *$\frac{5}{2}$ fractional quantum Hall state in GaAs with Landau level mixing*  
