@@ -49,4 +49,4 @@ Wenna Zhang, Yutao Hu, Hongyi Zhang, **Xiang Liu**, Georgios Veronis, Yuecheng S
 - *2024.07*, Interlayer excitons in double-layer transition metal dichalcogenides quantum dots, Hunan Province Symposium on the frontiers of Physics.
 
 # 📄 CV
-[Download my CV](assets/files/cv_7_v3.pdf)
+My CV provides an overview of my education, work experience, skills, and key projects. Feel free to [download my CV](assets/files/cv_7_v3.pdf) if you are interested in collaborating or hiring.
