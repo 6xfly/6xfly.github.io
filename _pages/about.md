@@ -46,4 +46,7 @@ Wenna Zhang, Yutao Hu, Hongyi Zhang, **Xiang Liu**, Georgios Veronis, Yuecheng S
 - *2018.09 - 2022.06*, B. Sc in Applied Physics, Department of Science, Xi'an Polytechnic University, Xi'an, China.
 
 # 💬 Invited Talks
-- *2024.07*, Interlayer excitons in double-layer transition metal dichalcogenides quantum dots, Hunan Province Symposium on the frontiers of Physics. 
+- *2024.07*, Interlayer excitons in double-layer transition metal dichalcogenides quantum dots, Hunan Province Symposium on the frontiers of Physics.
+
+# 📄 CV
+[Download my CV](assets/files/cv_7_v3.pdf)
