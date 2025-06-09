@@ -14,3 +14,6 @@ main:
         
     - title: "Invited Talks"
       url: "/#invited-talks"
+
+    - title: "CV"
+      url: "/#CV"
